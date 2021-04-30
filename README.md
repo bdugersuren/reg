@@ -10,3 +10,9 @@ git push -u origin main
 git remote add origin https://github.com/bdugersuren/reg.git
 git branch -M main
 git push -u origin main
+
+
+
+git pull origin master
+
+git branch --set-upstream-to=origin/dugersuren
