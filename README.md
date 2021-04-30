@@ -21,7 +21,6 @@ Git Commands
 
 | Command | Description |
 | ------- | ----------- |
-
 | `git checkout [branch name]` | Өөрийн (local) компьютер дээр байгаа branch-ийг солих команд |
 | `git checkout -b [branch name]` | Шинээр branch үүсгээд тухайн branch рүү шилжих |
 | `git branch -vv` | өөрийн компьютер дээр байгаа branch үүдийн дэлгэрэнгүй мэдээллийг харах |
@@ -29,3 +28,4 @@ Git Commands
 | `git status` | git-ийн төлвлийг харах |
 | `git commit -m "[commit message]"` | Өөрчлөлтийг git рүү нэр өгч хадаглах үүрэгтэй команд |
 
+Тайлбар
