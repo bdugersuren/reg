@@ -29,3 +29,19 @@ Git Commands
 | `git commit -m "[commit message]"` | Өөрчлөлтийг git рүү нэр өгч хадаглах үүрэгтэй команд |
 
 Тайлбар
+============
+auth - Эрдэнэ
+
+classes - Хантүшиг
+
+plan - Энэрэл
+
+pupil - Очир-Эрдэнэ
+
+registration - Алтантулга
+
+teacher - Өлзийтөгс
+
+user - Бат-Отгоно
+
+week - Отгонбаатар
